@@ -1,0 +1,5 @@
+*.pyc
+/doc
+*.swp
+rswt-flasher
+
